@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "KnockKnock1150!",
+    "database": "NPS_app",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "KnockKnock1150!",
+    "database": "NPS_app",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "KnockKnock1150!",
+    "database": "NPS_app",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  }
+}
